@@ -10,4 +10,6 @@ streamlit.text('🥑🍞 Avacado Toast')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 streamlit.header('Importing CSV File from S3 using Pandas Library')
+streamlit.text('Fruits Size Table')
+
 import pandas
